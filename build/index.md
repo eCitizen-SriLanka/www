@@ -102,7 +102,7 @@ permalink: /
   <div class="row">
     <div class="col-md-12">
       <h2>Characteristics of a better candidate</h2>
-<ul>
+<ol>
 <li>Accountability</li>
 <li>Transparency</li>
 <li>Integrity</li>
@@ -112,7 +112,7 @@ permalink: /
 <li>Thinking patriotically about nation</li>
 <li>Qualified & experienced as necessary</li>
 
-</ul>
+</ol>
 </div>
   </div>
 </div>
@@ -139,7 +139,7 @@ permalink: /
     <div class="col-md-12">
       <h2> What can you do to help?</h2>
 
-<ul>
+<ol>
 <li>Review, refine policies and strategy </li>
 <li>Contribute as a subject matter expert to refine sectors within strategy goals</li>
 <li>Design, implement technology projects</li>
@@ -152,7 +152,7 @@ permalink: /
 <li>Movement champions </li>
 <li>Principles guardians</li>
 
-</ul>
+</ol>
 
 
 </div>
