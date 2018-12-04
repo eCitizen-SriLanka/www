@@ -34,10 +34,10 @@ permalink: /
         <div class="block">
           <div class="section-title">
             <h2>Our Vision</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-          </div>
             <p>Change the political, social and economic landscape of Sri Lanka to create a more equal, transparent and humane society.
-</p>
+            </p>
+          </div>
+            
 <p>Sri Lanka will be a country of people who are considered the happiest in the world, live in harmony with each other and with nature, have excellent social care and infrastructure, are content with their lives and are improving the world by exporting our positive approach to life.</p>
         </div>
       </div><!-- .col-md-7 close -->
@@ -104,7 +104,7 @@ permalink: /
   <div class="row">
     <div class="col-md-12">
       <h2>Characteristics of a better candidate</h2>
-<ol>
+<ul>
 <li>Accountability</li>
 <li>Transparency</li>
 <li>Integrity</li>
@@ -114,7 +114,7 @@ permalink: /
 <li>Thinking patriotically about nation</li>
 <li>Qualified & experienced as necessary</li>
 
-</ol>
+</ul>
 </div>
   </div>
 </div>
@@ -141,7 +141,7 @@ permalink: /
     <div class="col-md-12">
       <h2> What can you do to help?</h2>
 
-<ol>
+<ul>
 <li>Review, refine policies and strategy </li>
 <li>Contribute as a subject matter expert to refine sectors within strategy goals</li>
 <li>Design, implement technology projects</li>
@@ -154,7 +154,7 @@ permalink: /
 <li>Movement champions </li>
 <li>Principles guardians</li>
 
-</ol>
+</ul>
 
 
 </div>
@@ -171,8 +171,7 @@ permalink: /
       <div class="col-md-12">
         <div class="block">
           <h2>Contact</h2>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo..</p>
-          <a class="btn btn-default btn-call-to-action" href="#" >Tell Us Your Story</a>
+          
         </div>
       </div>
     </div>
