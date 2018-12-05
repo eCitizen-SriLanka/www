@@ -147,7 +147,6 @@ permalink: /
 <li>Community building</li>
 <li>Marketing, messaging, media campaign planning and execution </li>
 <li>Language translation and content generation and curation </li>
-<li>Language translation and content generation and curation </li>
 <li>Be an active movement member, advocacy and promotion </li>
 <li>Movement champions </li>
 <li>Principles guardians</li>
