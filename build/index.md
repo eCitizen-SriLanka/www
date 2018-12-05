@@ -169,7 +169,7 @@ permalink: /
       <div class="col-md-12">
         <div class="block">
           <h2>Contact</h2>
-
+ <a href="mailto:contact@ecitizensmovement.lk">contact@ecitizensmovement.lk</a>
         </div>
       </div>
     </div>
