@@ -26,6 +26,14 @@
                 <!-- <li><a href="{{ site.baseurl }}/blog">Blog</a></li> -->
                 <!-- <li><a href="{{ site.baseurl }}/services">Service</a></li> -->
                 <li><a href="#contact">Contact</a></li>
+                <li>
+                    <select id="dynamic_select">
+                        <option value="" selected>Select Language</option>
+                        <option value="{{ site.baseurl }}/">English</option>
+                        <option value="{{ site.baseurl }}/sinhala">Sinhala</option>
+                        <option value="{{ site.baseurl }}/tamil/">Tamil</option>
+                      </select>
+                </li>
               </ul>
             </div><!-- /.navbar-collapse -->
           </div><!-- /.container-fluid -->
@@ -34,3 +42,4 @@
     </div>
   </div>
 </header><!-- header close -->
+

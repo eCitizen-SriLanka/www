@@ -1,123 +1,21 @@
-<!DOCTYPE html>
-<html class="no-js">
-  <head>
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-    <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>eCitizens Movement</title>
-<meta name="description" content="">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="shortcut icon" href="/img/ec.ico">
-<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+layout: page
+title: Home page - Tamil
+permalink: /tamil
+---
 
-<!-- CSS -->
-<link rel="stylesheet" href="/css/owl.carousel.css" />
-<link rel="stylesheet" href="/css/bootstrap.min.css" />
-<link rel="stylesheet" href="/css/font-awesome.min.css" />
-<link rel="stylesheet" href="/css/ecitizen.css" />
-<link rel="stylesheet" href="/css/style.css" />
-<link rel="stylesheet" href="/css/ionicons.min.css" />
-<link rel="stylesheet" href="/css/animate.css" />
-<link rel="stylesheet" href="/css/responsive.css" />
-<link rel="stylesheet" href="/css/syntax.css" />
-
-<!-- Js -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-<script src="/js/bootstrap.min.js"></script>
-<script src="/js/owl.carousel.min.js"></script>
-<script src="/js/plugins.js"></script>
-<script src="/js/min/waypoints.min.js"></script>
-<script src="/js/jquery.counterup.js"></script>
-
-
-<script src="/js/main.js"></script>
-
-
-<script>
-$(function() {
-  // bind change event to select
-  $('#dynamic_select').on('change', function() {
-    var url = $(this).val(); // get selected value
-    if (url) { // require a URL
-      window.location = url; // redirect
-    }
-    return false;
-  });
-});
-</script>
-<!--
-/*
- * Airspace
- * Ported to Jekyll by Andrew Lee
- * https://github.com/ndrewtl/airspace-jekyll
- * Designed and Developed by ThemeFisher
- * https://themefisher.com/
- *
- */
--->
-
-
-  </head>
-  <body>
-
-
-    <!-- Header Start -->
-<header>
-<div class="container">
-  <div class="row">
-    <div class="col-md-12">
-      <!-- header Nav Start -->
-      <nav class="navbar navbar-default">
-        <div class="container-fluid">
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="index.html">
-              <img src="/img/logo-w.png" alt="Logo">
-            </a>
-          </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-              <ul class="nav navbar-nav navbar-right">
-                <li><a href="/">Home</a></li>
-                <!-- <li><a href="/work">Work</a></li> -->
-                <!-- <li><a href="/blog">Blog</a></li> -->
-                <!-- <li><a href="/services">Service</a></li> -->
-                <li><a href="#contact">Contact</a></li>
-                <li>
-                    <select id="dynamic_select">
-                        <option value="" selected>Select Language</option>
-                        <option value="/">English</option>
-                        <option value="/sinhala">Sinhala</option>
-                        <option value="/tamil/">Tamil</option>
-                      </select>
-                </li>
-              </ul>
-            </div><!-- /.navbar-collapse -->
-          </div><!-- /.container-fluid -->
-        </nav>
-      </div>
-    </div>
-  </div>
-</header><!-- header close -->
-
-
-
-
-    <!-- Slider Start -->
+<!-- Slider Start -->
 <section id="slider">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <h1 class="animated fadeInUp">eCitizens Movement - <br />Who are we? </h1>
-          <p class="animated fadeInUp">We are a citizen’s movement focused on democratizing democracy in Sri Lanka by empowering our people using innovation &amp; technology. </p>
+          <h1 class="animated fadeInUp">eCitizens இயக்கம் - <br>
+நாம் யார்?</h1>
+          <p class="animated fadeInUp">We are a citizen’s movement focused on democratizing democracy in Sri Lanka by empowering our people using innovation & technology. </p>
 
   <p class="animated fadeInUp">Together, we will create a movement to allow us to stay engaged to protect ourselves from the tyranny of the corrupt few.</p>
 
@@ -154,6 +52,7 @@ $(function() {
   </div>
 </section>
 
+
 <section id="feature" class="cGray">
 <div class="container">
   <div class="row">
@@ -175,6 +74,8 @@ $(function() {
 </div>
 </section>
 
+
+
 <section id="feature">
 <div class="container">
   <div class="row">
@@ -184,7 +85,7 @@ $(function() {
 <li>Build a large digitally engaged membership</li>
 <li>Create a system for better candidates for election to come out</li>
 <li>Identify, recruit, mentor and develop leaders for institutions</li>
-<li>Help practice innovation &amp; adopt technology in institutions</li>
+<li>Help practice innovation & adopt technology in institutions</li>
 <li>Use data to monitor, observe and become a watchdog for the people to prevent the government from becoming big brother</li>
 <li>Use the law to proactively defend people’s interests</li>
 <li>Be a platform for global engagement to develop strategy and plans for Sri Lanka’s future</li>
@@ -193,6 +94,9 @@ $(function() {
   </div>
 </div>
 </section>
+
+
+
 
 <section id="feature" class="cGray">
 <div class="container">
@@ -207,13 +111,14 @@ $(function() {
 <li>Independent thinker</li>
 <li>Long term thinker</li>
 <li>Thinking patriotically about nation</li>
-<li>Qualified &amp; experienced as necessary</li>
+<li>Qualified & experienced as necessary</li>
 
 </ol>
 </div>
   </div>
 </div>
 </section>
+
 
 <section id="feature">
 <div class="container">
@@ -226,6 +131,8 @@ $(function() {
   </div>
 </div>
 </section>
+
+
 
 <section id="feature" class="cGray">
 <div class="container">
@@ -254,6 +161,8 @@ $(function() {
 </div>
 </section>
 
+
+
 <!-- Call to action Start -->
 <section id="contact">
   <div class="container">
@@ -268,37 +177,3 @@ $(function() {
   </div>
 </section>
 <!-- Content Start -->
-
-
-
-
-
-
-
-
-
-
-
-    <!-- footer Start -->
-<footer>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="footer-manu">
-          <ul>
-            <!-- <li><a href="#">About Us</a></li>
-            <li><a href="/contact">Contact us</a></li>
-            <li><a href="#">How it works</a></li>
-            <li><a href="/blog">Blog</a></li>
-            <li><a href="#">Terms</a></li> -->
-          </ul>
-        </div>
-        <p>Copyright &copy; 2018 eCitizens Movement. All rights reserved.</p>
-      </div>
-    </div>
-  </div>
-</footer>
-
-
-    </body>
-</html>
