@@ -14,7 +14,7 @@ permalink: /sinhala
       <div class="col-md-12">
         <div class="block">
           <h1 class="animated fadeInUp">ඉක්මනින් එළිදක්වනු ඇත</h1>
-          
+          <p></p>
         </div>
       </div>
     </div>
@@ -27,10 +27,8 @@ permalink: /sinhala
       <div class="col-md-12 col-sm-12">
         <div class="block">
           <div class="section-title">
-            
+            <p></p>
           </div>
-            
-
         </div>
       </div><!-- .col-md-7 close -->
       <!-- <div class="col-md-5 col-sm-12">
@@ -49,7 +47,7 @@ permalink: /sinhala
   <div class="row">
     <div class="col-md-12">
       
-
+<p></p>
     </div>
   </div>
 </div>
