@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Airspace
-permalink: /
+title: Home page - Sinhala
+permalink: /sinhala
 ---
 
 <!-- Slider Start -->
@@ -13,7 +13,8 @@ permalink: /
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <h1 class="animated fadeInUp">eCitizens Movement - <br>Who are we? </h1>
+          <h1 class="animated fadeInUp">ව්යාපාර චිකිත්සක ව්යාපාරය - <br>
+අපි කවුද?</h1>
           <p class="animated fadeInUp">We are a citizen’s movement focused on democratizing democracy in Sri Lanka by empowering our people using innovation & technology. </p>
 
   <p class="animated fadeInUp">Together, we will create a movement to allow us to stay engaged to protect ourselves from the tyranny of the corrupt few.</p>
@@ -147,6 +148,7 @@ permalink: /
 <li>Community building</li>
 <li>Marketing, messaging, media campaign planning and execution </li>
 <li>Language translation and content generation and curation </li>
+<li>Language translation and content generation and curation </li>
 <li>Be an active movement member, advocacy and promotion </li>
 <li>Movement champions </li>
 <li>Principles guardians</li>
@@ -169,7 +171,7 @@ permalink: /
         <div class="block">
           <h2>Contact</h2>
  <a href="mailto:contact@ecitizensmovement.lk">contact@ecitizensmovement.lk</a>
-        </div>
+    </div>
       </div>
     </div>
   </div>
